@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  
+}
+
+
+*{
+  font-family: "Poppins", sans-serif;
+  font-weight: 1.2rem;
+  font-style: normal;
+  
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  background-color: #202027;
+  padding: 10px;
+  color: white;
+  
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.logo {
+  margin-right: 10px;
+}
+
+.logo img {
+  width: 50px;
+  height: auto;
+}
+
+.logo-text {
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.options {
+  margin-left: auto;
+}
+
+.navbar-option {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.navbar-option:hover {
+  color: #202027;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-between; /* Alineará los elementos a los extremos del contenedor */
+  align-items: center; /* Alinear verticalmente el contenido */
+  min-height: 100vh;
+}
+
+.img-container {
+  margin-bottom: -5%;
+  margin-left: 20%;
+}
+
+.imgBanner {
+  width: 80%;
+  height: 70%;
+}
+
+.texto-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 15%;
+  width: 30%;
+}
+
+.textoBannerGrande{
+  color: white;
+  font-size: 3rem;
+  margin-bottom: -3%;
+  
+}
+.textoBannerPeque{
+  color: white;
+  font-size: 1.7rem;
+}
+.joinNow {
+  width: 20%;
+  background-color: #1762A7;
+  color: white;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  padding: 2%;
+  border: 0;
+}
+.joinNow:hover{
+  background-color: #2180d8
+  ;
+}
+.joinNow:focus{
+  background-color: #2796ff;
+}
