@@ -7,28 +7,60 @@
 
 
 *{
-    font-family: "Poppins", sans-serif;
-    font-weight: 1.2rem;
-    font-style: normal;
-    
-  }
+  font-family: "Poppins", sans-serif;
+  font-weight: 1.2rem;
+  font-style: normal;
+  color: white;
+}
 
 .banner {
     display: flex;
     justify-content: space-between; /* Alineará los elementos a los extremos del contenedor */
     align-items: center; /* Alinear verticalmente el contenido */
     min-height: 100vh;
+    margin-left: 10%;
   }
   
-  .img-container {
+  .discover-container {
     margin-bottom: -5%;
     margin-left: 20%;
   }
   
-  .imgBanner {
-    width: 80%;
-    height: 70%;
-  }
+  .discover {
+    color: white;
+    font-size: 3rem;
+}
+
+.icon{
+  background-color: #202027;
+  padding: 15%;
+  text-align: center; /* Alineación del contenido */
+  
+  
+}
+.icons{
+    
+    height: 5%;
+    width: 15%;
+    margin-right: 5%;
+    display: flex;
+    gap: 10%;
+    padding: 0;
+}
+.imgIcon{
+  margin-bottom: -30%;
+  height: 50%;
+  width: 80%;
+}
+
+.icons p{
+  margin-bottom: -20%;
+}
+.covers{
+  width: 60%;
+  margin-top: 20%;
+  
+}
   
   .texto-container {
     display: flex;
