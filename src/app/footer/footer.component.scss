@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  
+}
+
+
+*{
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  
+}
+
+footer {
+    background-color: #202027; /* Color de fondo del footer */
+    color: white; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+}
+
+.footer-nav {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+}
+
+.footer-nav-left,
+.footer-nav-right {
+    list-style-type: none; /* Quita los estilos de lista */
+    margin: 0;
+    padding: 0;
+}
+
+.footer-nav-left li,
+.footer-nav-right li {
+    display: inline; /* Muestra en línea */
+    margin-right: 20px; /* Espacio entre elementos */
+}
+
+.footer-nav-right img {
+    width: 30px; /* Ancho de los iconos */
+    height: auto; /* Altura automática */
+}
+
+.footer-nav-space {
+    margin: 0 20%; /* Espacio entre las dos listas de opciones */
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #2E3852;
+}
+.footer-nav-right img {
+    min-width: 9%;
+    width: 5%; /* Reducir ligeramente el tamaño de la imagen */
+    height: auto; /* Altura automática */
+}
+
+.footer-nav-right span {
+    vertical-align: middle; /* Alinea verticalmente */
+    font-size: 14px; /* Tamaño de fuente ajustado */
+}
