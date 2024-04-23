@@ -44,7 +44,8 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 
 ## Entregables
 
-- Repositorio de GitHub.
+- Repositorio de GitHub. - **[Github]([https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/46391d6c-b766-4ed3-a121-72c9b2a15960.pdf)**
+- **[Soundwave (Vercel)](https://soundwave-opal.vercel.app)**
 - Enlace del despliegue.
 
 ## Modalidad
