@@ -46,7 +46,7 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 
 - Repositorio de GitHub. - **[Github](https://github.com/project-assigments-p2-singulaars/soundwave-iKoloser/)**
 - Enlace del despliegue.- **[Soundwave (Vercel)](https://soundwave-opal.vercel.app)**
-- Kanban. - **[Trello] (https://trello.com/b/riBV68VW/soundwave)**
+- Kanban. - **[Trello](https://trello.com/b/riBV68VW/soundwave)**
 
 ## Modalidad
 
