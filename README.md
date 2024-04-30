@@ -1,3 +1,4 @@
+
 # SOUNDWAVE: from Angular point of view
 
 ## Introducción
@@ -43,8 +44,9 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 
 ## Entregables
 
-- Repositorio de GitHub.
-- Enlace del despliegue.
+- Repositorio de GitHub. - **[Github](https://github.com/project-assigments-p2-singulaars/soundwave-iKoloser/)**
+- Enlace del despliegue.- **[Soundwave (Vercel)](https://soundwave-opal.vercel.app)**
+- Kanban. - **[Trello](https://trello.com/b/riBV68VW/soundwave)**
 
 ## Modalidad
 
@@ -59,3 +61,4 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 | Maquetar una aplicación                                | La maquetación no es conforme al mockoup. Hay diferencias notables con el prototipo. | La maquetación respeta la carta gráfica. Pero no termina de ser totalmente responsive. | La maquetación respeta la carta gráfica de la empresa. Adaptar las interfaces al tipo de dispositivo teniendo en cuenta la experiencia del usuario y, en el caso de los dispositivos móviles, las características ergonómicas.                                            |
 | Desarrollar una interfaz de usuario web dinámica       | Las interacciones del lado del cliente (front-end) no funcionan.                     | Las interacciones del lado del cliente (front-end) si funcionan.                       | La web está alineada con la experiencia de usuario, incluyendo la experiencia móvil. La arquitectura de la aplicación se ajusta a las buenas prácticas de desarrollo. Los test garantizan que la página web cumplen los requisitos descritos en las especificaciones.     |
 | Crear una interfaz de usuario web estática y adaptable | No se aplican los cambios necesarios solicitados en la descripción de necesidades.   | Se aplican los cambios necesarios solicitados en la descripción de necesidades.        | La interfaz se realiza conforme al diseño de la aplicación. La página web respeta la carta gráfica de la empresa. Se respetan las buenas prácticas de estructuración. La app es accesible desde el navegador, incluso desde un móvil. Se adapta al tamaño de la pantalla. |
+
